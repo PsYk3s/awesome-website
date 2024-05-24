@@ -1,0 +1,29 @@
+body {
+    background: #1f2937;
+    max-width: 1095px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+header, #banner {
+    padding: 15px;
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #1f2937;
+}
+
+#topnav, #banner, #usps, #subscribe {
+    display: flex;
+    align-items: center;
+}
+
+#topnav div, #banner div, #usps div, #subscribe div {
+    flex: 1;
+}
+
