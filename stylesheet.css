@@ -121,8 +121,11 @@ button {
     background-color: #1f293700;
     color: #ffffff;
     border: 2px solid #ffffff;
-    padding: 5px 20px;
+    padding: 10px 21px;
     border-radius: 5px;
+    font-size: 15px;
+    background: #3678e3;
+    font-weight: bold;
 }
 
 footer {
