@@ -77,8 +77,14 @@ h2 {
 }
 
 #testimonials {
-    background: #e5e7eb;
-    padding: 20px;
+    width: 1000px;
+    margin: auto;
+    padding: 5%;
+    text-align: center;
+}
+
+#tsection {
+    background: #ebebeb;
 }
 
 #subscribe {
@@ -106,7 +112,7 @@ h2 {
 }
 
 button {
-    background: #3678e3;
+    background-color: #1f293700;
     color: #ffffff;
     border: 2px solid #ffffff;
     padding: 5px 20px;
@@ -118,3 +124,16 @@ footer {
     text-align: center;
 }
 
+#nav a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px;
+}
+
+#nav {
+    text-align: center;
+}
+
+#Hero {
+    margin: 20px 0px;
+}
