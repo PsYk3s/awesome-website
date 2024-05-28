@@ -44,11 +44,16 @@ h2 {
 }
 
 #topnav {
-    align-items: end;
+    align-items: center;
 }
 
 .usp {
     padding: 20px;
+}
+
+#Herotext,
+#Hero {
+    align-content: center;
 }
 
 div#Herotext {
@@ -132,7 +137,7 @@ footer {
 }
 
 #nav {
-    text-align: center;
+    text-align: end;
 }
 
 #Hero {
