@@ -40,7 +40,7 @@ h2 {
 #banner div,
 #usps div,
 #subscribe div {
-    flex: 1;
+    flex: auto;
 }
 
 #topnav {
@@ -54,6 +54,10 @@ h2 {
 #Herotext,
 #Hero {
     align-content: center;
+}
+
+div#Herotext {
+    max-width: 400px;
 }
 
 #Hero {
@@ -90,7 +94,7 @@ h2 {
 #subscribe {
     background: #3678e3;
     color: #ffffff;
-    padding: 2% 6%;
+    padding: 1% 6%;
     max-width: 700px;
     border-radius: 7px;
     align-items: center;
